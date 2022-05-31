@@ -1,0 +1,23 @@
+{
+  "name": "crudbea",
+  "version": "1.0.0",
+  "description": "dever d ecasa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walmir-Ag/tarefabeaCRUD.git"
+  },
+  "author": "walmir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Walmir-Ag/tarefabeaCRUD/issues"
+  },
+  "homepage": "https://github.com/Walmir-Ag/tarefabeaCRUD#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}

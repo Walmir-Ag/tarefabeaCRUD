@@ -33,5 +33,6 @@ app.put('/alterando', (request, response) => {
 
 
     app.listen(port, () => {
-      console.log(`Rodando na porta: ${port}`)}
+      console.log(`Rodando na porta: ${port}`)
+      })
 
